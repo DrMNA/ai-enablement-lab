@@ -41,3 +41,6 @@ If a project has no numbers yet, it says so. No hype.
 
 ---
 *Following along: I post the lessons (and failures) on [LinkedIn](https://www.linkedin.com/in/dr-mirza-nomman-ahmed-9a661237). Started July 2026.*
+
+
+*Lab opened from my Mac - July 2026.*
